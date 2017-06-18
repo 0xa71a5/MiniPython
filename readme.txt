@@ -1,0 +1,2 @@
+直接运行miniPython.exe的话 会自动寻找本目录下一个叫main.app的pyc文件，这是编译好的Python文件
+必须是2.4版本的
